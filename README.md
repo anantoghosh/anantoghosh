@@ -1,3 +1,3 @@
 <div align="center">
-	<img src="images/hello-world.svg">
+	<img src="images/profile5.gif">
 </div>
